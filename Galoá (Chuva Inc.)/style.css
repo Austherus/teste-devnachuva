@@ -160,3 +160,47 @@ body {
     line-height: 17px;
     color: #333;
 }
+
+.dropdown {
+    left: 75px;
+    top: -20px;
+    position: relative;
+}
+
+.bemvindo {
+    position: absolute;
+    width: 72px;
+    height: 18px;
+    left: 999px;
+    top: 17px;
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: right;
+    color: #333;
+}
+
+.alguem {
+    position: absolute;
+    width: 163px;
+    height: 15px;
+    left: 908px;
+    top: 36px;
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    text-align: right;
+    color: #333;
+}
+
+.rosto {
+    position: absolute;
+    left: 93.28%;
+    right: 2.53%;
+    top: 27.94%;
+    bottom: 27.94%;
+}
