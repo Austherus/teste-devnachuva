@@ -142,17 +142,17 @@ body {
 }
 
 .languageimage {
+    position: relative;
     width: 22px;
-    height: 21px;
-    left: 798px;
-    top: 22px;
+    height: 9px;
+    top: 4px;
+    left: 4px;
+
 }
 
 .ptbr {
-    width: 42px;
-    height: 18px;
-    left: 820px;
-    top: 25px;
+    left: 28px;
+    position: relative;
     font-family: Quicksand;
     font-style: normal;
     font-weight: normal;
