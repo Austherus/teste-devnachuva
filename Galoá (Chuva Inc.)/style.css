@@ -215,10 +215,11 @@ body {
 
 .titulodotrabalho {
     position: absolute;
+    width: 40%;
     height: 54px;
-    left: 0px;
+    left: 255px;
     right: 273px;
-    top: 0px;
+    top: 65px;
     font-family: Roboto;
     font-style: normal;
     font-weight: 900;
