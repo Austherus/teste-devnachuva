@@ -140,3 +140,23 @@ body {
     box-sizing: border-box;
     border-radius: 3px;
 }
+
+.languageimage {
+    width: 22px;
+    height: 21px;
+    left: 798px;
+    top: 22px;
+}
+
+.ptbr {
+    width: 42px;
+    height: 18px;
+    left: 820px;
+    top: 25px;
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    color: #333;
+}
