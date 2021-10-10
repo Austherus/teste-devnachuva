@@ -24,6 +24,22 @@ body {
     background: linear-gradient(180deg, #ffb354 0%, #ee7a3a 100%);
 }
 
+.rectangle241, .rectangle241special {
+    position: relative;
+    width: 220px;
+    height: 33px;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    margin-bottom: 1%;
+    background: #fff;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.25);
+}
+
+.rectangle241special {
+    background: #fdf1eb;
+}
+
 .SLACA2019 {
     position: absolute;
     left: 9.09%;
@@ -41,6 +57,20 @@ body {
     color: #fff;
 }
 
+.apresentação, .comitês, .autores, .etemáticos, .trabalhos, .contato {
+    position: absolute;
+    left: 10.91%;
+    right: 0%;
+    top: -25%;
+    bottom: 0%;
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 19px;
+    color: #725c5c;
+}
+
 .dewey4 {
     width: 220px;
     height: 258px;
@@ -48,4 +78,65 @@ body {
     right: 0%;
     margin-top: 0%;
     bottom: 0%;
+}
+
+.header {
+    position: absolute;
+    z-index: -1;
+    width: 1146px;
+    height: 68px;
+    left: 220px;
+    top: 0px;
+    background: #fdf1eb;
+}
+
+.anaispeq {
+    position: absolute;
+    width: 1146px;
+    height: 16px;
+    left: 36px;
+    top: -8px;
+    font-family: Roboto;
+    font-style: normal;
+    line-height: 16px;
+    color: #725c5c;
+}
+
+.anaisgrnd {
+    position: absolute;
+    width: 1146px;
+    height: 26px;
+    left: 36px;
+    top: 3px;
+    font-family: Roboto;
+    font-style: normal;
+    line-height: normal;
+    font-size: 22px;
+    line-height: 26px;
+    color: #725c5c;
+}
+
+.isnn {
+    position: absolute;
+    width: 1146px;
+    height: 16px;
+    left: 36px;
+    top: 35px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    color: #725c5c;
+}
+
+.languagebutton {
+    position: absolute;
+    width: 97px;
+    height: 34px;
+    left: 789px;
+    top: 17px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    border-radius: 3px;
 }
